@@ -2,7 +2,7 @@
 
 A simple Python project to visualize **gradient descent** on a 3D cost surface for linear regression.
 
-![GD3D](assets/gd3d.png)
+![GD3D](gd3d.png)
 
 ---
 
